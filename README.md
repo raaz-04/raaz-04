@@ -27,13 +27,6 @@
 
 [![Gmail](https://img.shields.io/badge/-rasulageesara@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rasulageesara@gmail.com)
 
-## 📈 Stats
-
-<p align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=raaz-04&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raaz-04&theme=tokyonight" />
-</p>
 
 <br>
 
