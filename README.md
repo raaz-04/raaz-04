@@ -5,8 +5,10 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-<h3 align="center">I’m a third-year Biomedical Engineering undergraduate at the University of Moratuwa, driven by a passion for blending healthcare with innovation. My key interests include signal processing, machine learning, robotics, and programming, with a strong focus on electronics.</h3>
+<div>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture></div>
+<br clear='all'>
+<div><h3 align="center">I am a third-year Biomedical Engineering undergraduate at the University of Moratuwa, driven by a passion for blending healthcare with innovation. My key interests include signal processing, machine learning, robotics, and programming, with a strong focus on electronics.</h3></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raaz-04&label=Profile%20views&color=0e75b6&style=flat" alt="raaz-04" /> </p>
 
